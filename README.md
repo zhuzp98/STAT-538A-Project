@@ -10,6 +10,7 @@ This Project is a repository for deliverables in STAT 538A at the University of 
    3. hcvR.csv - Filtered data from {UCI} Machine Learning Repository. (With headers)
    4. hcvM.csv - Filtered data from {UCI} Machine Learning Repository. (Without headers)
    5. project.html - html file of project.ipynb
+   6. Report.pdf - Project report.
 
 + The original data comes from UCI Machine Learning Repository [HCV data Data Set](http://archive.ics.uci.edu/ml/datasets/HCV+data#).
 
