@@ -12,3 +12,12 @@ This Project is a repository for deliverables in STAT 538A at the University of 
    5. project.html - html file of project.ipynb
 
 + The original data comes from UCI Machine Learning Repository [HCV data Data Set](http://archive.ics.uci.edu/ml/datasets/HCV+data#).
+
+[x] Packages used:
+   1. pands
+   2. numpy
+   3. math
+   4. random
+   5. csv
+   6. sklearn
+   7. time
